@@ -1,0 +1,12 @@
+# Dataset dan file besar
+*.idx3-ubyte
+*.idx1-ubyte
+*.pth
+
+# File editor
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# OS
+.DS_Store
