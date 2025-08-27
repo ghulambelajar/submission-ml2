@@ -8,8 +8,7 @@ Proyek ini adalah implementasi model *Deep Learning* menggunakan teknik *Transfe
 - [Metodologi](#metodologi)
 - [Hasil](#hasil)
 - [Cara Menjalankan](#cara-menjalankan)
-- [Struktur File](#struktur-file)
-- [Penulis](#penulis)
+
 
 ## Tentang Proyek
 
@@ -74,3 +73,4 @@ Model menunjukkan kinerja yang sangat baik dengan **akurasi validasi berhasil me
 2.  Buka file `pre-trained-VGG19.ipynb` menggunakan Jupyter Notebook, JupyterLab, atau Google Colab.
 3.  Pastikan path ke dataset di dalam notebook sudah benar.
 4.  Jalankan sel-sel notebook secara berurutan dari atas ke bawah.
+
